@@ -1,0 +1,30 @@
+.header {
+  position: absolute;
+  height: 75px;
+  width: 100%;
+}
+
+.header > .content {
+    margin-top: 7px;
+    display: flex;
+    width: 1120px;
+    font-weight: bold;
+    margin-left: 240px;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+}
+
+.logo {
+    height: 45px;
+    width: 45px;
+}
+
+.links {
+    justify-content: flex-end;
+}
+
+.links > a {
+    color: white;
+    margin-left: 50px;
+}
