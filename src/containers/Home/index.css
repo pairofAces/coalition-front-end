@@ -1,0 +1,11 @@
+/* this is the LA Mountains background image */
+.lamount {
+    position: absolute;
+    margin: 0 auto;
+}
+
+/* this is the Hero Banner background image */
+.homebg {
+    width: 100%;
+    height: 100%;
+}
